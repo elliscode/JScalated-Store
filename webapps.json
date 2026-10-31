@@ -203,7 +203,7 @@
       "category": "games",
       "description": "By elliscode. A typing-action game for the T9 keypad: type the falling words before they reach you, survive 50 waves and 5 bosses, and climb the global leaderboard.",
       "package_url": "https://github.com/Garbagebuild/JScalated-Store/releases/download/jscalated-apps-1/T9-Wizard-3.1.10.zip",
-      "sha256": "542aa014c565cafd69aff07a4f23a5ce32a04a7892c332e8077811b3fb74e8f1",
+      "sha256": "689b62c59137059080fb211d6864c0a1d5aad3425cb8896ba640a443048aad50",
       "update_url": "https://t9-wizard.elliscode.com/update.webmanifest"
     }
   ]
