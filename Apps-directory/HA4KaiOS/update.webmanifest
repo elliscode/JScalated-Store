@@ -1,0 +1,26 @@
+{
+  "name": "HA4KaiOS",
+  "version": "1.0.0",
+  "package_path": "https://github.com/Garbagebuild/JScalated-Store/releases/download/jscalated-apps-1/HA4KaiOS-1.0.0-r2.zip",
+  "packaged_size": 158962,
+  "size": 158962,
+  "type": "privileged",
+  "b2g_features": {
+    "version": "1.0.0",
+    "type": "privileged",
+    "origin": "ha4kaios",
+    "developer": {
+      "name": "ha4kaios",
+      "url": "https://github.com/ambercaravalho/ha4kaios"
+    },
+    "csp": "default-src * data: blob:; script-src 'self'; object-src 'none'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:",
+    "permissions": {
+      "systemXHR": {
+        "description": "Talk to a self-hosted Home Assistant instance over the local network without CORS restrictions."
+      },
+      "video-capture": {
+        "description": "Scan a Home Assistant long-lived access token QR code with the camera."
+      }
+    }
+  }
+}

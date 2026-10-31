@@ -205,6 +205,33 @@
       "package_url": "https://github.com/Garbagebuild/JScalated-Store/releases/download/jscalated-apps-1/T9-Wizard-3.1.10.zip",
       "sha256": "689b62c59137059080fb211d6864c0a1d5aad3425cb8896ba640a443048aad50",
       "update_url": "https://t9-wizard.elliscode.com/update.webmanifest"
+    },
+    {
+      "folder": "HA4KaiOS",
+      "name": "HA4KaiOS",
+      "version": "1.0.0",
+      "category": "utilities",
+      "description": "By Amber Caravalho. Home Assistant client for KaiOS 3; requires your own reachable Home Assistant instance and a long-lived access token.",
+      "package_url": "https://github.com/Garbagebuild/JScalated-Store/releases/download/jscalated-apps-1/HA4KaiOS-1.0.0-r2.zip",
+      "sha256": "f8075da840e1696a182c3bafda66479928ce63b785058dc51747b20f3a09beae"
+    },
+    {
+      "folder": "Signal4KaiOS",
+      "name": "Signal4KaiOS",
+      "version": "1.1.3",
+      "category": "utilities",
+      "description": "By Amber Caravalho. Signal client for KaiOS; requires a self-hosted gateway and signal-cli backend before use.",
+      "package_url": "https://github.com/Garbagebuild/JScalated-Store/releases/download/jscalated-apps-1/Signal4KaiOS-1.1.3-r2.zip",
+      "sha256": "50221adf498235dc49228821d7e6571add6c911b53636ec617c7b80d4a03db83"
+    },
+    {
+      "folder": "Wordly",
+      "name": "Wordly",
+      "version": "1.3.1",
+      "category": "games",
+      "description": "By Garrett Downs. A word puzzle game built for KaiOS 3 keypad and D-pad controls.",
+      "package_url": "https://github.com/Garbagebuild/JScalated-Store/releases/download/jscalated-apps-1/Wordly-1.3.1-r2.zip",
+      "sha256": "ed3938aaf0c07d37665bbca08299959fc3dd1f4283fefba19a081031383618f3"
     }
   ]
 }
